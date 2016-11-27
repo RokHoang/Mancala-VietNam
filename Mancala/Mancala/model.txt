@@ -1,0 +1,99 @@
+Linear Node 0
+    Inputs    Weights
+    Threshold    -0.6413152520832236
+    Node 1    -3.5766602929761206
+    Node 2    -3.315929926037796
+    Node 3    1.9864493304504318
+    Node 4    1.750585285299131
+    Node 5    2.0386463721914927
+    Node 6    -3.3534941724768688
+Sigmoid Node 1
+    Inputs    Weights
+    Threshold    -2.21807288628368
+    Attrib tile1    2.386113074574705
+    Attrib tile2    2.1661346980274216
+    Attrib tile3    -0.9105995877029592
+    Attrib tile4    1.0354810367974088
+    Attrib tile5    0.06291113784956544
+    Attrib tile6    1.8235809068103082
+    Attrib tile7    -4.318908194011974
+    Attrib tile8    0.2974306559874202
+    Attrib tile9    5.332955366895192
+    Attrib tile10    3.9795653269316325
+    Attrib tile11    -2.630513451881452
+    Attrib tile12    2.979134072368087
+Sigmoid Node 2
+    Inputs    Weights
+    Threshold    -6.367978512736461
+    Attrib tile1    -6.801720800944035
+    Attrib tile2    6.386982069234902
+    Attrib tile3    1.5983808891672837
+    Attrib tile4    7.275380009055282
+    Attrib tile5    2.198926286354302
+    Attrib tile6    -1.8957927553092893
+    Attrib tile7    -2.470180189556444
+    Attrib tile8    -6.366044737139184
+    Attrib tile9    0.6216022844144595
+    Attrib tile10    1.5060586465583505
+    Attrib tile11    -0.7339986991722907
+    Attrib tile12    -2.5991812766598694
+Sigmoid Node 3
+    Inputs    Weights
+    Threshold    -1.0416486887296073
+    Attrib tile1    8.555869560140682
+    Attrib tile2    -2.248356173367943
+    Attrib tile3    2.5907518773735028
+    Attrib tile4    3.9101855328817647
+    Attrib tile5    -0.21444362625469826
+    Attrib tile6    -0.6551685453546261
+    Attrib tile7    2.090668990373299
+    Attrib tile8    -0.5617199891938275
+    Attrib tile9    0.3562741538688261
+    Attrib tile10    -4.222533402894288
+    Attrib tile11    0.6691434480630788
+    Attrib tile12    1.9876684115362717
+Sigmoid Node 4
+    Inputs    Weights
+    Threshold    1.012330352071325
+    Attrib tile1    -5.658272913172478
+    Attrib tile2    15.163029772383254
+    Attrib tile3    -3.3017752189426743
+    Attrib tile4    -7.795809319137238
+    Attrib tile5    4.295643811568019
+    Attrib tile6    3.0106858396423517
+    Attrib tile7    -11.730100857278261
+    Attrib tile8    1.3762090393828705
+    Attrib tile9    -2.6579780041032914
+    Attrib tile10    -0.13183806198045037
+    Attrib tile11    -10.326269439858363
+    Attrib tile12    14.911611330845517
+Sigmoid Node 5
+    Inputs    Weights
+    Threshold    -2.45688695638072
+    Attrib tile1    -2.457964364778533
+    Attrib tile2    0.2799985609814887
+    Attrib tile3    9.677331571790013
+    Attrib tile4    -3.557951968306524
+    Attrib tile5    -7.376922258483922
+    Attrib tile6    0.7281887641695958
+    Attrib tile7    0.2818094387895461
+    Attrib tile8    -0.1969839356150218
+    Attrib tile9    2.4941551854893436
+    Attrib tile10    5.36289696927598
+    Attrib tile11    6.914164150983301
+    Attrib tile12    -2.5729667004869374
+Sigmoid Node 6
+    Inputs    Weights
+    Threshold    -5.438290980044419
+    Attrib tile1    0.5781000535667714
+    Attrib tile2    2.5130504882754057
+    Attrib tile3    5.285876073611279
+    Attrib tile4    -2.1151944003433876
+    Attrib tile5    -1.1427830518380777
+    Attrib tile6    -1.9959767422977308
+    Attrib tile7    2.0902449031938124
+    Attrib tile8    4.695822864042619
+    Attrib tile9    -5.511053558286369
+    Attrib tile10    -1.7524229531063018
+    Attrib tile11    1.2910202481706492
+    Attrib tile12    4.768738266136567
